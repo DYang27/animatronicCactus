@@ -1,4 +1,3 @@
-**Animatronic Cactus**
 This side project looks to explore creating a simple animatronics.
 # General Info
 ![video-1599150241_Trim3 (1)](https://user-images.githubusercontent.com/36009360/92145020-987f6180-ede5-11ea-95ae-357e2ae6ce44.gif)
