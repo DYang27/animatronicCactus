@@ -1,5 +1,6 @@
-This side project looks to explore creating a simple animatronics.
 # General Info
+This side project looks to explore creating a simple animatronics.
+
 ![video-1599150241_Trim3 (1)](https://user-images.githubusercontent.com/36009360/92145020-987f6180-ede5-11ea-95ae-357e2ae6ce44.gif)
 
 The animatronic cactus has two animating parts. The mouth opens and closes and the arms rotate. The animatronics' motion is controlled by a push button. Pressing the button starts or stops the motion depending on the previous state.
